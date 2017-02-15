@@ -1,5 +1,5 @@
 # universityForm
-Univerity Form is to manage different departments and there courses using PHP and MySQL 
+Univerity Form is to manage different departments and there courses using PHP and MySQL\n 
 This project will help you to work on PHP and MySQL. 
 Description:
 The first screen you will see will be login page,on successful login, admin panel page will displayed, which will help the user to manage
